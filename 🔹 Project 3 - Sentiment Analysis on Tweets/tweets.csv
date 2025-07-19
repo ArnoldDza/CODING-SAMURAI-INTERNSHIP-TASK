@@ -1,0 +1,11 @@
+tweet,sentiment
+"I love the new phone!",positive
+"This is the worst service ever",negative
+"Meh, it was okay I guess",neutral
+"Absolutely fantastic experience!",positive
+"I hate waiting in long lines",negative
+"The movie was fine, not great",neutral
+"Great work by the support team",positive
+"Terrible, just terrible",negative
+"Nothing special about this",neutral
+"Best app I've used!",positive
